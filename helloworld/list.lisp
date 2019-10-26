@@ -1,0 +1,7 @@
+(defun hello()(format t "hello\n"))
+(hello)
+(hello)
+(hello)
+(hello)
+(hello)
+(hello)
