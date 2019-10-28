@@ -1,3 +1,4 @@
-(defun hello-lisp() (format t "hello-lisp !!!"))
-
-(hello-lisp)
+(defun squre ( x )  ( * x x ))
+(squre 2)
+(squre 5 )
+(defun squere(x))

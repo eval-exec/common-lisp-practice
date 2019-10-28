@@ -1,0 +1,11 @@
+					;slime
+(defun squre(n) (* n n))
+()
+
+
+
+
+
+
+
+
