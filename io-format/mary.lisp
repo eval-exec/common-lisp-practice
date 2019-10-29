@@ -1,0 +1,7 @@
+(defun mary() 
+ (format t "~%mary one")
+ (format t "~%mary two")
+ (format t "~%mary three")
+ (format t "~%mary four")
+ )
+  (mary)
