@@ -6,3 +6,11 @@
 (girl-in-girls girls)
 
 (find-if #'oddp '(2 4 6 7 8 9))
+
+
+(defun has-23(x)
+  (find-if #'(lambda (x)(equal x 23)) x))
+
+(defvar nums '(1 2 3 4 5 23 78))
+
+(has-23 nums)
