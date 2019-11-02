@@ -16,4 +16,5 @@
 
 (SUM-TREE '((3 BEARS)
 	     (3 BOWLS)
-	     (1 GIRL)))
+	     (1 GIRL))
+
