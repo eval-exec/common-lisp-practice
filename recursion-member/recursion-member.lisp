@@ -6,5 +6,8 @@
    (t (recursion-member x
 			(cdr y)))))
 
-(recursion-member 1 '( 2 3 1 4))
+(recursion-member 1 '( 2 3 5 4))
 (recursion-member '(xxx) '((fejiw) (few) (xxx)))
+
+
+
